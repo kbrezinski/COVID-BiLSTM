@@ -39,6 +39,3 @@ If you find this code useful, please cite the following:
   howpublished = {\url{https://github.com/kbrezinski/COVID-BiLSTM}},
 }
 ```
-
-## Licence
-
