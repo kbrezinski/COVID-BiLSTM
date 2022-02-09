@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io:/github/license/kbrezinski/COVID-BiLSTM?logoColor=yellow)](https://github.com/kbrezinski/COVID-BiLSTM/blob/main/LICENSE)
 
 # COVID-BiLSTM
-This repo contains a time series analysis of wastewater indicators as well as mobility reports to predict negative health outcomes associated with COVID-19.
+This repo contains a time series analysis of wastewater indicators, mobility reports and other useful indicators to predict negative health outcomes associated with COVID-19.
 
 ## Table of Contents
 * [Setup](#setup)
@@ -23,7 +23,7 @@ To be completed...
 
 ## Data Sources
 * [Google COVID-19 Open-Data](https://github.com/GoogleCloudPlatform/covid-19-open-data) - mobility, government response, vaccination rate
-* Government sources
+* [Government of Canada - COVID Daily Epidemiology Update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) - test, case and test rates, moving average case rates/death rate
 
 ## Citation
 
