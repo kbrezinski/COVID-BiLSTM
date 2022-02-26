@@ -24,6 +24,7 @@ To be completed...
 ## Data Sources
 * [Google COVID-19 Open-Data](https://github.com/GoogleCloudPlatform/covid-19-open-data) - mobility, government response, vaccination rate
 * [Government of Canada - COVID Daily Epidemiology Update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) - test, case and test rates, moving average case rates/death rate
+* [Canadian Wastewater Survery](https://www150.statcan.gc.ca/n1/pub/38-26-0002/382600022022001-eng.htm) - COVID wastewater data for select regions in Canada
 
 ## Citation
 
