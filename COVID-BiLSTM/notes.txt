@@ -1,0 +1,15 @@
+
+** COVID 19 monitoring
+- consider the rawWW, pstGrit WTPs
+- consider the population, area_sq_km in the measure of COVID19? 
+
+** Features
+- some measures are weekly numbers (cum case rates). Extrapolate missing data? Ramping?
+- consider only workplace, retail and transit mobility
+
+** Vaccination rates
+- normalized to population?
+
+GET DATA
+- variants of concernby population
+- 
