@@ -15,6 +15,24 @@ class ProvCode(enum.Enum):
     QC = 5,
     SK = 6
     
+# Supported location codes
+class LocCode(enum.Enum):
+    EGB = 0,
+    HDA = 1,
+    HHA = 2,
+    HMC = 3,
+    MMN = 4,
+    MMS = 5, 
+    TAB = 6,
+    THC = 7, 
+    THU = 8,
+    TNT = 9,
+    VAI = 10,
+    VII = 11,
+    VLG = 12, 
+    VLI = 13,
+    VNL = 14
+    
 
 # directory information
 DATA_DIR_PATH = os.path.join(os.path.dirname(__file__), os.pardir, 'data')
