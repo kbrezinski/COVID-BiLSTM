@@ -1,15 +1,23 @@
 
 ** COVID 19 monitoring
 - consider the rawWW, pstGrit WTPs
-- consider the population, area_sq_km in the measure of COVID19? 
+- consider the population in most measures
+- consider WW parameters
 
 ** Features
 - some measures are weekly numbers (cum case rates). Extrapolate missing data? Ramping?
-- consider only workplace, retail and transit mobility
+- consider only workplace, retail and transit mobility as those are indicators of more mobility
 
 ** Vaccination rates
-- normalized to population?
+- normalized to population? 
+- Missing some numbers for vaccination rates in the dataset before June 2021
 
 GET DATA
-- variants of concernby population
-- 
+- variants of concern in each province
+- vaccination rates
+
+
+CAN-vaccine: Public Health Agency of Canada. Canadian COVID-19 vaccination coverage report. Ottawa: Public Health Agency of Canada; March 4, 2022. https://health-infobase.canada.ca/covid-19/vaccination-coverage/
+
+CAN-health_outcomes_deprec: https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html
+
