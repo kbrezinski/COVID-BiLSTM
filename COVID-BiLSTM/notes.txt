@@ -16,6 +16,9 @@ GET DATA
 - variants of concern in each province
 - vaccination rates
 
+** Global **
+
+
 
 CAN-vaccine: Public Health Agency of Canada. Canadian COVID-19 vaccination coverage report. Ottawa: Public Health Agency of Canada; March 4, 2022. https://health-infobase.canada.ca/covid-19/vaccination-coverage/
 

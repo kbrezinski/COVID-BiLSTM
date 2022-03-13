@@ -33,6 +33,11 @@ class LocCode(enum.Enum):
     VLI = 13,
     VNL = 14
     
+# date constants
+labels_start_date = '2020-04-09'
+
+features_end_date = '2020-04-09'
+    
 
 # directory information
 DATA_DIR_PATH = os.path.join(os.path.dirname(__file__), os.pardir, 'data')
