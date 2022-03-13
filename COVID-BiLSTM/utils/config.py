@@ -36,6 +36,7 @@ class LocCode(enum.Enum):
 
 # directory information
 DATA_DIR_PATH = os.path.join(os.path.dirname(__file__), os.pardir, 'data')
+
 BINARIES_PATH = os.path.join(os.path.dirname(__file__), os.pardir, 'models', 'binaries')
 CHECKPOINTS_PATH = os.path.join(os.path.dirname(__file__), os.pardir, 'models', 'checkpoints')
 
